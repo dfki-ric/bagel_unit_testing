@@ -1,0 +1,9 @@
+<package>
+    <description brief="bagel_unit_testing">
+      bagel_unit_testing is a small program to verify that a given bagel graph produces the expected output.
+   </description>
+    <depend package="simulation/lib_manager" />
+    <depend package="simulation/configmaps" />
+    <depend package="bagel/c_bagel" />
+    <depend package="simulation/mars/common/utils" />
+</package>

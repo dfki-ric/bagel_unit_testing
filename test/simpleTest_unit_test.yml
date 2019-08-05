@@ -1,0 +1,4 @@
+unit_tests:
+ - {inputs: [1, 2], outputs: [5]}
+ - {inputs: [2, 2], outputs: [8]}
+ - {inputs: [3, 2.5], outputs: [12.25]}
